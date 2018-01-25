@@ -1,0 +1,24 @@
+{
+  "name": "tinper-brick",
+  "version": "0.0.1",
+  "description": "Node.js Framework Based On Koa 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "guoyongfeng",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.4.1",
+    "koa-router": "^7.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuap-design/tinper-brick.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iuap-design/tinper-brick/issues"
+  },
+  "homepage": "https://github.com/iuap-design/tinper-brick#readme"
+}
